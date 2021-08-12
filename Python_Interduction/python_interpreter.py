@@ -4,7 +4,7 @@ What is Interpreter?
 Interpreter translates line by line and executes the first line before going to the second line
 """
 # How to Download Python?
-web_browser = 'Search for Python.org in that select your os type and architecture and download the python'
+web_browser: str = 'Search for Python.org in that select your os type and architecture and download the python'
 
 ("\n"
  "When you download python from python.org, here actually your downloading (cpython) program,\n"
