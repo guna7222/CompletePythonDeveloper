@@ -32,3 +32,4 @@ interpreter = 'Interpreter translates line by line and executes the line before 
 # Compiler
 compiler = "Compiler translates all lines of a programs into binary file and executes the whole file at ones"
 
+
