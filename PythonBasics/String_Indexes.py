@@ -17,4 +17,7 @@ print(name[::-1])
 
 print(name[-1])  # starts from the end
 
-
+"""
+You can return a range of characters by using slicing,
+specify the start and end index seperated by colon to return a part of string
+"""
