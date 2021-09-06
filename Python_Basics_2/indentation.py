@@ -7,7 +7,7 @@ indentation is used to code readability but in python indentation refers a block
 
 is_he_won_car = True
 
-if he_won_car:
+if is_he_won_car:
   print('Yes')
 else:
   print('No')
