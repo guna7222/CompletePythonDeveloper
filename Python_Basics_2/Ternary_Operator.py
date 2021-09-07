@@ -1,5 +1,6 @@
 # Ternary Operator
 # if_condition_True if condition else if_condition_False
+# Ternary Operator is also know as Conditional Expression 
 
 is_friend = True
 message = "allowed to send msg" if is_friend else "not allowed"
