@@ -13,6 +13,6 @@ Python is a General Purpose, High-Level, Interpreted, Dynamically typed and Obje
 *Flexibility
 
 # Variables
-Variables are containers for storing data types
+Variables are containers for storing data types.
 The variables are created the moment when you assign a value to it.
-lan = 'Python'
+**lan = 'Python'**
