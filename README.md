@@ -11,3 +11,6 @@ Python is a General Purpose, High-Level, Interpreted, Dynamically typed and Obje
 *Large Standard Libraries
 *Portability
 *Flexibility
+
+# Variables
+Variables are containers for storing data types
