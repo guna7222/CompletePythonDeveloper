@@ -19,3 +19,6 @@ The variables are created the moment when you assign a value to it.
 
 # Strings
 A string is a sequence of a characters. Ex:- text = 'Python'
+
+# Interpreter
+Interpreter translates line-by-line and executes the first line before going to the next line.
