@@ -18,4 +18,4 @@ The variables are created the moment when you assign a value to it.
 **lan = 'Python'**
 
 # Strings
-A string is a sequence of a characters.
+A string is a sequence of a characters. Ex:- text = 'Python'
