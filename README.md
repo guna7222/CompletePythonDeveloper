@@ -22,3 +22,8 @@ A string is a sequence of a characters. Ex:- text = 'Python'
 
 # Interpreter
 Interpreter translates line-by-line and executes the first line before going to the next line.
+
+# What is int
+int or integer is a positive number, negative number, or whole number without decimal points of infinity length.
+
+# 
