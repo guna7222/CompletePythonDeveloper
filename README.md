@@ -26,4 +26,5 @@ Interpreter translates line-by-line and executes the first line before going to 
 # What is int
 int or integer is a positive number, negative number, or whole number without decimal points of infinity length.
 
-# 
+# Comments
+comments are used to make code more readable. (#) character is used to define a function. 
