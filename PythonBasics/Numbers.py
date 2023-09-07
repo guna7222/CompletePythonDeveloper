@@ -3,7 +3,7 @@
 """
 int() int or integer is a whole number, positive number, or negative number without decimal points of infinity length
 """
-
+print("hello ssg")
 print(type(12))
 print(type(-23))
 
